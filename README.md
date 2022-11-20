@@ -1,6 +1,6 @@
 # Unit_19.3.3
 
-Запросы GET, POST, DELETE, PUT с использованием свободное API https://petstore.swagger.io
+Запросы GET, POST, DELETE, PUT с использованием свободного API https://petstore.swagger.io
 
 Файл pet.py:
 - post, добавление нового питомца
